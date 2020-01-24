@@ -1,4 +1,5 @@
 # [Kioo Media Player](https://kiooplayer.com)
+=======
 
 Kioo Media Player is a lightweight media player with Clear Crystal Sound, Extra Sharp Video and a Beautiful Design.
 
@@ -21,8 +22,4 @@ Screenshots
 
 ![Alt text](https://kiooplayer.com/static/assets/images/3.png "Playlist Sidebar")
 
-<<<<<<< HEAD
-> 2013-01-21
-=======
 
->>>>>>> Update README.md
